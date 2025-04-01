@@ -1,11 +1,15 @@
+![banner from SpektralCPP.png](./SpektralCPP.png)
+
 # The SpektralC++ Project
 
 - SpektralC++ is a collection of C++ modules designed to facilitate rapid prototyping in C++
 
-## Modules
+## Modules List
 
-- Arenas
-- Tests
+- [Arenas](https://github.com/SpektralCPP/Arenas)
+- [Tests](https://github.com/SpektralCPP/Tests)
+<!-- - [Logger](https://github.com/SpektralCPP/Logger) -->
+- [Threading](https://github.com/SpektralCPP/Threading)
 
 ## Installation Guide
 
